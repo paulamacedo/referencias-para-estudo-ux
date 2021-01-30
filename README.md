@@ -7,7 +7,7 @@ Links para conteúdos relacionados à UX
   
   - Leituras em inglês:
     1. <a href= https://uxdesign.cc/the-role-of-the-sole-ux-designer-in-an-agile-product-team-497afa8d04ff > The role of the UX designer in an Agile product team </a>
-    2. <a href = https://www.interaction-design.org/literature/article/improve-customer-experience-with-ux-investments-that-increase-roi?utm_source=linkedin&utm_medium=sm>Improve Customer Experience with UX Investments that Increase ROI</a>
+    2. <a href= https://www.interaction-design.org/literature/article/improve-customer-experience-with-ux-investments-that-increase-roi>Improve Customer Experience with UX Investments that Increase ROI</a>
 
 ### UX Research
 
@@ -34,7 +34,7 @@ Links para conteúdos relacionados à UX
 #### Documentação
 
   - Leituras em português:
-    1. <a href = https://medium.com/aela/documenta%C3%A7%C3%A3o-de-projetos-como-criar-documentos-em-ux-design-52548106200a> Como criar documentos em ux design <a> 
+    1. <a href = https://medium.com/aela/documenta%C3%A7%C3%A3o-de-projetos-como-criar-documentos-em-ux-design-52548106200a> Como criar documentos em ux design </a> 
 
 #### Cases
 
@@ -45,12 +45,12 @@ Links para conteúdos relacionados à UX
 
    - Leituras em inglês:
       1. <a  href = https://uxdesign.cc/how-to-build-a-ux-portfolio-if-i-have-never-worked-in-ux-80ebab8f3407>How to build a Ux portfolio if I have never worked in UX </a>
-      2. <a href= https://uxplanet.org/7-simple-ways-to-improve-your-ux-portfolio-unrelated-to-case-studies-ff24156a17aa > 7 Simple Ways to Improve your UX Portfolio <a>
+      2. <a href= https://uxplanet.org/7-simple-ways-to-improve-your-ux-portfolio-unrelated-to-case-studies-ff24156a17aa > 7 Simple Ways to Improve your UX Portfolio </a>
 
 #### Figma
 
   - Leituras em inglês:
-    1. <a href = https://uxplanet.org/advanced-figma-tips-tricks-d782ba2b2f5c > Advanced figma </a>
+      1. <a href = https://uxplanet.org/advanced-figma-tips-tricks-d782ba2b2f5c > Advanced figma </a>
     
 #### Cursos Gratuitos
 
