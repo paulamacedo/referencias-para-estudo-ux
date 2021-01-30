@@ -4,6 +4,16 @@ Links para conteúdos relacionados à UX
 
   - Leituras em português :
     1. <a href= https://medium.com/aela/leis-de-ux-os-princ%C3%ADpios-b%C3%A1sicos-de-ux-design-9b9bf3fdb43c > Leis de UX: Os Princípios Básicos de UX Design </a>
+  
+  - Leituras em inglês:
+    1. <a href= https://uxdesign.cc/the-role-of-the-sole-ux-designer-in-an-agile-product-team-497afa8d04ff > The role of the UX designer in an Agile product team </a>
+    2. <a href = https://www.interaction-design.org/literature/article/improve-customer-experience-with-ux-investments-that-increase-roi?utm_source=linkedin&utm_medium=sm>Improve Customer Experience with UX Investments that Increase ROI</a>
+
+### UX Research
+
+  - Leituras em português :
+    1. <a href= https://priscilahenriques1340471.medium.com/ux-research-como-realizar-avalia%C3%A7%C3%B5es-heur%C3%ADsticas-na-sua-pesquisa-5232fa91c8be>UX Research: Como realizar avaliações heurísticas na sua pesquisa?</a>
+    2. <a href= https://medium.com/pagsegurodesign/vai-fazer-pesquisa-com-usu%C3%A1rio-uma-lista-de-perguntas-para-n%C3%A3o-fazer-f02835647892>Vai fazer pesquisa com usuário? Uma lista de perguntas para não fazer </a>
 
 #### Usabilidade 
 
@@ -29,9 +39,8 @@ Links para conteúdos relacionados à UX
 #### Cases
 
    - Leituras em inglês:
-      1. <a href =https://uxdesign.cc/improving-urban-transport-through-ux-design-3f6e12994414> Improving urban transport through UX design </a>
-
-
+     1. <a href =https://uxdesign.cc/improving-urban-transport-through-ux-design-3f6e12994414> Improving urban transport through UX design </a>
+     
 #### Portfólio 
 
    - Leituras em inglês:
@@ -42,5 +51,10 @@ Links para conteúdos relacionados à UX
 
   - Leituras em inglês:
     1. <a href = https://uxplanet.org/advanced-figma-tips-tricks-d782ba2b2f5c > Advanced figma </a>
+    
+#### Cursos Gratuitos
+
+  - Em inglês:  
+    1.<a href = https://www.futurelearn.com/courses/digital-skills-user-experience> User Experience </a>
 
 
