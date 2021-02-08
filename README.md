@@ -9,7 +9,7 @@ Links para conteúdos relacionados à UX
     1. <a href= https://uxdesign.cc/the-role-of-the-sole-ux-designer-in-an-agile-product-team-497afa8d04ff > The role of the UX designer in an Agile product team </a>
     2. <a href= https://www.interaction-design.org/literature/article/improve-customer-experience-with-ux-investments-that-increase-roi>Improve Customer Experience with UX Investments that Increase ROI</a>
 
-### UX Research
+#### UX Research
 
   - Leituras em português :
     1. <a href= https://priscilahenriques1340471.medium.com/ux-research-como-realizar-avalia%C3%A7%C3%B5es-heur%C3%ADsticas-na-sua-pesquisa-5232fa91c8be>UX Research: Como realizar avaliações heurísticas na sua pesquisa?</a>
@@ -25,6 +25,11 @@ Links para conteúdos relacionados à UX
 
    - Leituras em inglês:
       1. <a href = https://uxplanet.org/complete-guide-to-user-flows-your-map-to-ux-success-1fc0975f49ea> Guide to user flows </a>
+  
+#### Métricas
+
+  - Leituras em português:
+      1. <a href = https://brasil.uxdesign.cc/ux-e-m%C3%A9tricas-1-o-m%C3%A9todo-pure-18d1b4fee73a >UX e Métricas — O método PURE</a>
 
 #### Design thinking 
   
